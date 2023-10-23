@@ -4,3 +4,4 @@ pydeck
 streamlit
 markdown
 mistune
+transformers

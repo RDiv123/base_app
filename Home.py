@@ -13,6 +13,7 @@
 # limitations under the License.
 
 import streamlit as st
+import transformers
   
 st.markdown("# HELLO WORLD")
 
