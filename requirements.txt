@@ -5,3 +5,4 @@ streamlit
 markdown
 mistune
 transformers
+pytorch
